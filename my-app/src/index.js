@@ -10,3 +10,26 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
+const initialState = {
+    tasks : []
+};
+
+function tasksReducer(state = initialState, action) {
+    switch(action.type) {
+        case 'ADD_TASK';
+            return {
+                ...state,
+                tasks: state.tasks.concat([action.task])
+            };
+        default;
+            return state;
+    }
+}
+
+{
+    type: 'ADD_TASK',
+    payload: {
+        task: 'Reducerを学ぶ'
+    }
+}

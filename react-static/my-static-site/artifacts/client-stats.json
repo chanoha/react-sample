@@ -4,9 +4,9 @@
     "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  templates/vendors~main.2f139571.js (244 KiB)"
   ],
   "version": "4.41.5",
-  "hash": "026db267ccd8c91099f2",
-  "time": 1266,
-  "builtAt": 1579221035711,
+  "hash": "72c85d65387d91849de0",
+  "time": 1192,
+  "builtAt": 1579349021793,
   "publicPath": "/",
   "outputPath": "/Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/dist",
   "assetsByChunkName": {
@@ -15,16 +15,16 @@
     "Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/src/pages/about": "templates/Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/src/pages/about.98dceba6.js",
     "Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/src/pages/blog": "templates/Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/src/pages/blog.12f17b9d.js",
     "Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/src/pages/index": "templates/Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/src/pages/index.de975004.js",
-    "main": "main.026db267.js",
+    "main": "main.72c85d65.js",
     "styles": [
-      "styles.6ab5a87f.css",
-      "templates/styles.6ab5a87f.js"
+      "styles.922a808e.css",
+      "templates/styles.922a808e.js"
     ],
     "vendors~main": "templates/vendors~main.2f139571.js"
   },
   "assets": [
     {
-      "name": "main.026db267.js",
+      "name": "main.72c85d65.js",
       "size": 9552,
       "chunks": [
         5
@@ -38,7 +38,7 @@
       "emitted": true
     },
     {
-      "name": "styles.6ab5a87f.css",
+      "name": "styles.922a808e.css",
       "size": 361,
       "chunks": [
         6
@@ -122,7 +122,7 @@
       "emitted": true
     },
     {
-      "name": "templates/styles.6ab5a87f.js",
+      "name": "templates/styles.922a808e.js",
       "size": 82,
       "chunks": [
         6
@@ -160,10 +160,10 @@
         5
       ],
       "assets": [
-        "styles.6ab5a87f.css",
-        "templates/styles.6ab5a87f.js",
+        "styles.922a808e.css",
+        "templates/styles.922a808e.js",
         "templates/vendors~main.2f139571.js",
-        "main.026db267.js"
+        "main.72c85d65.js"
       ],
       "children": {},
       "childAssets": {}
@@ -177,10 +177,10 @@
         5
       ],
       "assets": [
-        "styles.6ab5a87f.css",
-        "templates/styles.6ab5a87f.js",
+        "styles.922a808e.css",
+        "templates/styles.922a808e.js",
         "templates/vendors~main.2f139571.js",
-        "main.026db267.js"
+        "main.72c85d65.js"
       ],
       "children": {},
       "childAssets": {}
@@ -767,7 +767,7 @@
         "main"
       ],
       "files": [
-        "main.026db267.js"
+        "main.72c85d65.js"
       ],
       "hash": "cfa62cfcff10b53d7537",
       "siblings": [
@@ -1474,10 +1474,10 @@
         "styles"
       ],
       "files": [
-        "styles.6ab5a87f.css",
-        "templates/styles.6ab5a87f.js"
+        "styles.922a808e.css",
+        "templates/styles.922a808e.js"
       ],
-      "hash": "6ab5a87fe619432b651a",
+      "hash": "922a808ef22863788127",
       "siblings": [
         5,
         7
@@ -1552,7 +1552,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 4,
-          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1579221035234\n      var cssReload = require(\"/Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1579349021292\n      var cssReload = require(\"/Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
         },
         {
           "id": "",
@@ -24060,7 +24060,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 4,
-      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1579221035234\n      var cssReload = require(\"/Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1579349021292\n      var cssReload = require(\"/Users/takashi/Documents/design/github/chanoha.github.io/react-static/my-static-site/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
     },
     {
       "id": 131,

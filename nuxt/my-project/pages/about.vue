@@ -6,9 +6,9 @@
         nuxt_project
       </h1>
       <h2 class="subtitle">
-        nuxt no project
-        test
+        about
       </h2>
+      <p>{{ text }}</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -29,8 +29,13 @@ import AppLogo from '~/components/AppLogo.vue'
 export default {
   components: {
     AppLogo
+  },
+  data: () => {
+    return { text: 'Hello, World!' }
   }
 }
+
+
 </script>
 
 <style>

@@ -4,3 +4,7 @@
 ```
 $ npm install --save-dev node-sass sass-loader
 ```
+- pugの有効化
+```
+$ npm i pug pug-loader pug-plain-loader
+```

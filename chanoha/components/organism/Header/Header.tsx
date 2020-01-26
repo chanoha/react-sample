@@ -1,10 +1,13 @@
 import Link from 'next/Link';
 import styled from 'styled-components';
-// import { createGenerateClassName } from '@material-ui/styles';
 
 const linkStyle = {
     marginRight: 15
 };
+
+// const Component = {
+//     margin: 15
+// };
 
 const Component = styled.div`
     margin: 30px;

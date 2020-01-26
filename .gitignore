@@ -1,2 +1,8 @@
+# misc
 .DS_Store
-next-learn-demo
+
+# dependencies
+node_modules
+
+# next.js
+.next

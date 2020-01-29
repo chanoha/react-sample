@@ -1,9 +1,0 @@
-# misc
-.DS_Store
-
-# dependencies
-node_modules
-
-# next.js
-.next
-out

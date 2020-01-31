@@ -1,10 +1,21 @@
 # chanoha.github.io
 ## 環境構築
-- [nuxt.js](https://ja.nuxtjs.org/api/configuration-css/)  
+- React
+- next.js
+- Atomic　Design
+- TypeScript
+- Styled-components
+
+## コマンド
+- プレビュー  
 ```
-$ npm install --save-dev node-sass sass-loader
+$ yarn dev
 ```
-- pugの有効化
+- ビルド
 ```
-$ npm i pug pug-loader pug-plain-loader
+$ yarn build
+```
+- 書き出し
+```
+$ yarn export
 ```

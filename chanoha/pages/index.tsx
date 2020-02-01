@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Nav from '../components/nav'
-import { H1 } from './TitleStyle';
+import H1 from './TitleStyle';
 
 const Home = () => (
   <div>

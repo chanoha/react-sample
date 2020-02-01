@@ -13,7 +13,7 @@ const Home = () => (
     <Nav />
 
     <div className="hero">
-      <H1>Welcome to Next.js!!</H1>
+      <H1>Welcome to Next.js!?</H1>
       <p className="description">
         To get started, edit <code>pages/index.js</code> and save to reload.
       </p>

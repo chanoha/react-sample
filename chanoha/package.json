@@ -2,7 +2,7 @@
   "name": "chanoha",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://chanoha.github.io/chanoha/",
+  "homepage": "https://chanoha.github.io/chanoha",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

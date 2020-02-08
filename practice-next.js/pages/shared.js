@@ -37,3 +37,5 @@ export const PostLink = (props) => (
         <a style={linkStyle}>{props.title}</a>
     </Link>
 )
+
+export default Layout

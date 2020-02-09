@@ -1,0 +1,1 @@
+{"name":"practice-next.js","version":"1.0.0","main":"index.js","license":"MIT","dependencies":{"express":"^4.17.1","isomorphic-unfetch":"^3.0.0","next":"^9.2.1","react":"^16.12.0","react-dom":"^16.12.0"},"devDependencies":{"http-server":"^0.12.1"},"readme":"ERROR: No README data found!","_id":"practice-next.js@1.0.0"}

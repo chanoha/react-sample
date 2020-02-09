@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nexport var H1 = styled.h1.withConfig({\n  displayName: \"TitleStyle__H1\",\n  componentId: \"tn9ewb-0\"\n})([\"font-size:50px;text-align:center;\"]);\nexport default H1;","map":null,"metadata":{},"sourceType":"module"}

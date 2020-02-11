@@ -1,5 +1,5 @@
 import App from '../components/App';
-import H1 from './TitleStyle'
+import { H1 } from './TitleStyle';
 
 export default () => (
   <App>

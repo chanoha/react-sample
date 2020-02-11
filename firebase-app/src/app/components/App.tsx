@@ -1,4 +1,4 @@
-import Header from './Header';
+import Header from '../components/organism/Header/Header';
 
 const App = ({ children }: { children?: any }) => (
   <main>

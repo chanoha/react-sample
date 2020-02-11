@@ -14,6 +14,8 @@ export const Header = styled.div`
 
 export const HeaderLink = styled.a`
     color: #fff;
+    margin: 0px 10px;
+    cursor: pointer;
 `;
 
 export default H1;

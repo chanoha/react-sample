@@ -1,15 +1,16 @@
 import Link from 'next/link';
-import { Header } from '../../../pages/TitleStyle';
+import { Header, HeaderLink } from '../../../pages/TitleStyle';
 
-export default ({ pathname }: { pathname?: any }) => (
-    <Header>
-      <header>
-        <Link href='/'>
-          <a className={pathname === '/' ? 'is-active' : ''}>Home</a>
-        </Link>
-        <Link href='/about'>
-          <a className={pathname === '/about' ? 'is-active' : ''}>About</a>
-        </Link>
-      </header>
-    </Header>
+// export default ({ pathname }: { pathname?: any }) => (
+export default () => (
+  <Header>
+    <header>
+      <Link href='/'>
+        <HeaderLink>Home</HeaderLink>
+      </Link>
+      <Link href='/about'>
+        <HeaderLink>About</HeaderLink>
+      </Link>
+    </header>
+  </Header>
 );

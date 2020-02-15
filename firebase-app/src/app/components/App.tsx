@@ -1,5 +1,5 @@
-import Header from '../components/organism/Header/Header';
 import Head from '../components/organism/Head/Head';
+import Header from '../components/organism/Header/Header';
 
 const App = ({ children }: { children?: any }) => (
   <>

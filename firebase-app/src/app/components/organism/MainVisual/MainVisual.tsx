@@ -1,16 +1,17 @@
 import styled from 'styled-components';
+import H1 from '../../atom/H1';
 
 const MainVisual = () => (
     <MainVisualStyle>
-        <h1>MainVisual</h1>
+        <H1 title='My Design' />
     </MainVisualStyle>
 );
 
 const MainVisualStyle = styled.div`
     background: #E3E3E3;
     width: 100%;
-    height: 300px;
-    color: #fff;
+    height: 500px;
+    color: #707070;
 `;
 
 export default MainVisual;

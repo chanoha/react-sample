@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const H1 = props => (
+const H1 = (props) => (
     <H1style>{props.title}</H1style>
 );
 

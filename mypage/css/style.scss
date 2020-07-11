@@ -1,5 +1,7 @@
 $fontColor: #333;
+$fontWeight: bold;
 
 p {
     color: $fontColor;
+    font-weight: $fontWeight;
 }

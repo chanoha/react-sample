@@ -1,0 +1,14 @@
+div {
+  background: red;
+  width: 400px;
+  height: 400px; }
+  div p {
+    color: white;
+    font-weight: bold;
+    text-align: center; }
+
+h1 {
+  background: #333;
+  color: #fff; }
+
+/*# sourceMappingURL=style.css.map */

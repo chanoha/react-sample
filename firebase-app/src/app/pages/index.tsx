@@ -1,12 +1,15 @@
 import App from '../components/App';
-import React from 'react';
+import MainVisual from '../components/organism/MainVisual/MainVisual';
 import { Normalize } from 'styled-normalize';
-import { H1 } from './TitleStyle';
+// import styled from 'styled-components';
+import Acordion from '../components/molecule/Acordion';
+import ItemList from '../components/organism/ItemList';
 
 export default () => (
   <App>
     <Normalize />
-    <p>Top Page</p>
-    <H1>style text</H1>
+    <MainVisual />
+    <Acordion />
+    <ItemList />
   </App>
 );
